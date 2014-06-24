@@ -52,11 +52,11 @@ def setUpExamples():
 	## note odd end on vanilladart
 	#
 	labsArchitectureExamples = ('angular-dart/web', 'atmajs', 'backbone_marionette', 'dijon', 'duel/www', 'epitome', 'exoskeleton', 'firebase-angular', 'kendo', 'mozart', 'olives', 'plastronjs', 'puremvc', 'ractive', 'react-backbone', 'sammyjs', 'serenadejs', 'somajs', 'stapes', 'typescript-angular', 'typescript-backbone', 'vue', 'ariatemplates',  'batman', 'componentjs', 'cujo', 'derby', 'extjs_deftjs', 'meteor', 'montage', 'polymer', 'rappidjs', 'sapui5', 'socketstream', 'thorax')
-    ## error for socketstream is unhandled
+	## error for socketstream is unhandled
 	## can't do 'ariatemplates',  'batman' (*OK on 3, not OK on 100), 'componentjs', 'cujo', 'derby', 'extjs_deftjs', 'meteor', 'montage', 'polymer', 'rappidjs', 'sapui5', 'socketstream', 'thorax',
 	#
 	labsDependencyExamples = ('angularjs_require', 'enyo_backbone', 'flight', 'knockoutjs_require', 'somajs_require', 'stapes_require', 'troopjs_require', 'backbone_marionette_require', 'canjs_require', 'chaplin-brunch', 'durandal', 'lavaca_require', 'thorax_lumbar/public')
-	## can't do 'backbone_marionette_require', 'canjs_require', 'chaplin-brunch', 'durandal', 'lavaca_require', 'thorax_lumbar/public',
+	# can't do 'backbone_marionette_require', 'canjs_require', 'chaplin-brunch', 'durandal', 'lavaca_require', 'thorax_lumbar/public',
 ###
 
 ####################################################################
